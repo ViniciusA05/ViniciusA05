@@ -7,7 +7,7 @@ Seja bem-vindo(a) à minha conta do GitHub! Sou estudante de Engenharia de Softw
 - 🏢 Atualmente atuo no Núcleo Financeiro/Organizacional da CJR (Empresa Júnior de Computação da UnB), impactando diretamente os resultados da empresa por meio de análise de dados e gestão.
 - 💻 Tenho experiência prática na criação de interfaces e APIs, utilizando tecnologias como TypeScript, React, Next.js e Node.js.
 - 🏆 Fui vencedor do Inovathon do Banco do Brasil (out/2025) cocriando o "BB Oportunidades", uma solução inovadora focada na inserção de jovens no mercado de trabalho.
-- 🎓 Cursando o 4º semestre de Engenharia de Software na UnB (Previsão: Julho/2029) e possuo inglês fluente (C1-Cambridge).
+- 🎓 Cursando Engenharia de Software na UnB e possuo inglês fluente (C1-Cambridge).
 
 ## 🛠️ Tecnologias e ferramentas
 
