@@ -24,7 +24,6 @@ Seja bem-vindo(a) à minha conta do GitHub! Sou estudante de Engenharia de Softw
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusA05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusA05&layout=compact&theme=dracula&langs_count=10&count_private=true&exclude_repo=notebooks,ml-project"/>
 </div>
 
 ## 📫 Como me encontrar
